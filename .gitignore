@@ -1,0 +1,10 @@
+# 临时裁剪预览图
+_c*.png
+_crop*.png
+
+# Python
+__pycache__/
+*.pyc
+
+# 提交信息临时文件
+.commitmsg.txt
